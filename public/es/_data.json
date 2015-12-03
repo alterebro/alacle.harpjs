@@ -1,0 +1,48 @@
+{
+
+    "index": {
+        "title": "A la clé. Français Langue Etrangère",
+        "sibling" : ""
+    },
+    "quienes-somos": {
+        "title": "¿Quienes Somos?",
+        "sibling" : "qui-nous-sommes"
+    },
+    "que-ofrecemos": {
+        "title": "¿Qué ofrecemos?",
+        "sibling" : "quoffrons-nous"
+    },
+        "clases-de-frances-en-el-centro": {
+            "title": "Clases de Francés en el Centro",
+            "sibling" : "cours-de-francais-au-sein-du-centre"
+        },
+        "clases-de-frances-en-instituciones": {
+            "title": "Clases de Francés en Instituciones",
+            "sibling" : "cours-de-francais-en-institutions"
+        },
+        "talleres": {
+            "title": "Talleres",
+            "sibling" : "ateliers"
+        },
+        "espacio-ocio": {
+            "title": "Espacio Ocio",
+            "sibling" : "espace-de-loisirs"
+        },
+        "espacio-cultural": {
+            "title": "Espacio Cultural",
+            "sibling" : "espace-culturel"
+        },
+    "tarifas": {
+        "title": "Tarifas",
+        "sibling" : "tarifs"
+    },
+    "agenda-y-eventos": {
+        "title": "Agenda y Eventos",
+        "sibling" : "agenda-et-evenements"
+    },
+    "contacto": {
+        "title": "Contactanos",
+        "sibling" : "contact"
+    }
+
+}
