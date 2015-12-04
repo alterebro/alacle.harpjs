@@ -1,12 +1,13 @@
-
 “A la clé” offre un espace de ludothèque adapté à tous les âges et niveaux.
-**Nous proposons 2 formules :**
+<br />**Nous proposons 2 formules :**
+
+<hr class="space" />
 
 <table class="two-column-table">
 	<thead>
 		<tr>
-			<th>«A emporter»</th>
-			<th>«Sur place»</th>
+			<th class="td-center">«A emporter»</th>
+			<th class="td-center">«Sur place»</th>
 		</tr>
 	</thead>
 	<tbody>

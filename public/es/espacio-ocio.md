@@ -1,11 +1,13 @@
 “A la clé” ofrece un espacio de ludoteca adaptado a todas las edades y niveles.
-**Proponemos 2 fórmulas :**
+<br />**Proponemos 2 fórmulas :**
+
+<hr class="space" />
 
 <table class="two-column-table">
 <thead>
 	<tr>
-		<th>«A emporter»<br /><em>(Para llevar)</em></th>
-		<th>«Sur place»<br /><em>(A disfrutar aquí)</em></th>
+		<th class="td-center">«A emporter»<br /><em>(Para llevar)</em></th>
+		<th class="td-center">«Sur place»<br /><em>(A disfrutar aquí)</em></th>
 	</tr>
 </thead>
 <tbody>

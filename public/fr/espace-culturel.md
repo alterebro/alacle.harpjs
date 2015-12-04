@@ -64,6 +64,8 @@ Pour plus d'informations sur notre routine, les thèmes, etc, veuillez nous cont
 
 - [Fiche d'inscription](fr/contact.html)
 
+<hr class="space" />
+
 <table>
 	<thead>
 		<tr>
@@ -76,7 +78,7 @@ Pour plus d'informations sur notre routine, les thèmes, etc, veuillez nous cont
 	</thead>
 	<tbody>
 		<tr>
-			<td rowspan="3">**Semaine Entiere**<br /><em>(du lundi au vendredi)</em></td>
+			<td rowspan="3" class="td-center">**Semaine Entiere**<br /><em>(du lundi au vendredi)</em></td>
 			<td>4h/jour</td>
 			<td>40€</td>
 			<td>35€</td>
@@ -95,7 +97,7 @@ Pour plus d'informations sur notre routine, les thèmes, etc, veuillez nous cont
 			<td>45€</td>
 		</tr>
 		<tr>
-			<td rowspan="3">**Jour Ponctuel**</td>
+			<td rowspan="3" class="td-center">**Jour Ponctuel**</td>
 			<td>4h</td>
 			<td>15€</td>
 			<td>12€</td>
@@ -123,6 +125,8 @@ Si tu veux fêter ton anniversaire d'une manière originale, à “A la clé” 
 française et où tu pourras choisir ton propre thème et tes activités.
 
 - <a href="https://docs.google.com/forms/d/1iNEWM-kLw4z1ZHif27DA_wdWzeLJAZ0YN68J4uSqxNs/viewform" onclick="window.open(this.href, 'clases', 'width=800,height=600'); return false;">Fiche d'inscription aux anniversaires avec détails à rendre complétée par courrier électronique</a></li>
+
+<hr class="space" />
 
 <table>
 	<thead>

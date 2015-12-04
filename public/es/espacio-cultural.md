@@ -68,7 +68,7 @@ Los niños podrán disfrutar de estas actividades en francés para aprender o fo
 	</thead>
 	<tbody>
 		<tr>
-			<td rowspan="3">**Semana Entera**<br /><em>(de Lunes a Viernes)</em></td>
+			<td rowspan="3" class="td-center">**Semana Entera**<br /><em>(de Lunes a Viernes)</em></td>
 			<td>4h/día</td>
 			<td>40€</td>
 			<td>35€</td>
@@ -87,7 +87,7 @@ Los niños podrán disfrutar de estas actividades en francés para aprender o fo
 			<td>45€</td>
 		</tr>
 		<tr>
-			<td rowspan="3">**Dias Sueltos**</td>
+			<td rowspan="3" class="td-center">**Dias Sueltos**</td>
 			<td>4h</td>
 			<td>15€</td>
 			<td>12€</td>
@@ -113,6 +113,8 @@ Los niños podrán disfrutar de estas actividades en francés para aprender o fo
 Si quieres celebrar tu cumpleaños de forma original, en “A la clé” podrás disfrutar de un cumple a la francesa eligiendo tu propio tema.
 
 - <a href="https://docs.google.com/forms/d/1iNEWM-kLw4z1ZHif27DA_wdWzeLJAZ0YN68J4uSqxNs/viewform" onclick="window.open(this.href, 'clases', 'width=800,height=600'); return false;">Ficha de Preinscripción a los cumpleaños</a>
+
+<hr class="space" />
 
 <table>
 	<thead>

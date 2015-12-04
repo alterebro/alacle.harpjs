@@ -576,8 +576,8 @@ input[type="radio"] {
 // --------------------------------------------
 // Utilities
 .td-center {
-	vertical-align: middle;
-	text-align: center;
+	vertical-align: middle !important;
+	text-align: center !important;
 }
 hr.space {
 	margin: 10px 0;
@@ -666,7 +666,7 @@ header[role="banner"] {
                 strong {
                     text-transform: none;
                     font-weight: 900;
-                    font-size: @font-large;
+					font-size: 105%;
                 }
                 a {
                     color: @global-color-foreground;
@@ -691,8 +691,11 @@ header[role="banner"] {
                 padding: 130px 0 0 0;
                 text-align: center;
 
-                h1, h1 strong {
+                h1 {
                     font-size: @font-mobile-xlarge;
+                }
+				h1 strong {
+                    font-size: 105%;
                 }
                 ul {
                     margin: 0 auto;
@@ -1074,6 +1077,29 @@ footer[role="contentinfo"] {
 	}
 
 }
+
+// --------------------
+// Contact Details & Map
+@media @desktop {
+	#contact-map {
+		hr, iframe {
+			width: 95%;
+		}
+	}
+}
+@media @mobile {
+	#contact-map {
+		hr, iframe {
+			width: 100%;
+		}
+	}
+	#contact-details {
+		strong {
+			display: block;
+		}
+	}
+}
+
 
 // --------------------
 // Calendar
