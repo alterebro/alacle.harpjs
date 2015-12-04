@@ -14,6 +14,7 @@
     <meta name="google" content="notranslate" />
     <meta http-equiv="cleartype" content="on" />
     <base href="<%= (environment == 'production') ? live_url : dev_url %>" />
+    <link rel="icon" href="favicon.ico" />
     <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Merriweather:300,400,700,900,300italic,400italic,700italic,900italic" />
     <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Merriweather+Sans:300,300italic,400,400italic,700,700italic,800,800italic" />
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
@@ -30,6 +31,7 @@
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
   js.src = "//connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v2.5&appId=1520023691656888";
+//  js.src = "//connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.5&appId=1520023691656888";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));
 </script>
@@ -132,61 +134,37 @@
 
 <footer role="contentinfo">
     <hr />
-    <!--
+    <div id="footer-share">
         <div
-          class="fb-like"
-          data-share="true"
-          data-width="450"
-          data-show-faces="false"
-          data-href="https://www.facebook.com/alaclezaragoza/">
+            class="fb-like"
+            data-share="false"
+            data-width="400"
+            data-layout="box_count"
+            data-show-faces="false"
+            data-colorscheme="light"
+            data-href="https://www.facebook.com/alaclezaragoza/">
         </div>
-    -->
-    <p>
-        <strong>A la clé.</strong> Français langue étrangère © 2015
-        <br />Av. Tenor Fleta, 53, 50008 Zaragoza, España
-    </p>
-
+    </div>
+    <div id="footer-credits">
+        <p>
+            <strong>A la clé.</strong> Français langue étrangère © 2015
+            <br />Av. Tenor Fleta, 53, 50008 Zaragoza, España
+        </p>
+        <p class="author">
+            Diseño y Desarrollo Web : <a href="http://moro.es" title="Jorge Moreno. UI Designer and Front End Web Developer. Zaragoza, Spain" target="_blank">Jorge Moreno</a>
+        </p>
+    </div>
 </footer>
 
-
-<script type="text/javascript">
-
-var menu_open = false;
-var menu_trigger, mobile_menu;
-
-function init() {
-    menu_trigger = document.querySelector('#main-navigation-trigger');
-    mobile_menu = getComputedStyle(menu_trigger).getPropertyValue("display") === 'block';
-    if ( mobile_menu ) {
-        console.log('mobile glory');
-        if ( menu_open == false ) {
-            document.querySelector('#main-navigation').style.display = 'none';
-        }
-    } else {
-        document.querySelector('#main-navigation').style.display = 'block';
-    }
-}
-
-init();
-
-document.querySelector('#main-navigation-trigger').onclick = function(e) {
-    e.preventDefault();
-    if ( menu_open === false) {
-        document.querySelector('#main-navigation').style.display = 'block';
-        document.querySelector('#main-navigation-trigger').innerHTML = '<a href="#main-navigation"><i class="fa fa-times"></i> Close Menu</a>';
-        menu_open = true;
-    } else {
-        document.querySelector('#main-navigation').style.display = 'none';
-        document.querySelector('#main-navigation-trigger').innerHTML = '<a href="#main-navigation"><i class="fa fa-bars"></i> Menu</a>';
-        menu_open = false;
-    }
-    console.log('click');
-}
-
-window.onresize = function() {
-    init();
-}
-</script>
+<script type="text/javascript" src="frontend/scripts/alacle.js"></script>
+<% if (current.source == 'agenda-y-eventos' || current.source == 'agenda-et-evenements') { %>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.3.2/fullcalendar.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.3.2/gcal.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.3.2/lang/es.js"></script>
+<script>(function($) { render_cal(); })(jQuery);</script>
+<% } %>
 
 </body>
 </html>
