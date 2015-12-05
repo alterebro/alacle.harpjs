@@ -763,23 +763,37 @@ header[role="banner"] {
 
 			div#main-navigation-trigger {
 				float: left;
-				padding: 15px 15px;
+				padding: 15px 15px 15px 10px;
 				line-height: 20px;
 				height: 50px;
 				overflow: hidden;
+				vertical-align: baseline;
 				i {
-					margin: 0 5px 0 0;
+					font-size: 1.8rem;
+					margin: 0 3px 0 0;
+					vertical-align: top;
 				}
 				a { text-decoration: none; }
 			}
 
             ul#main-navigation {
-				display: none;
+
+				&.open {
+					height: 360px;
+					padding: 10px 0;
+				}
+
+				-webkit-transition: all 0.2s ease-out;
+				transition: all 0.2s ease-out;
+
+				overflow: hidden;
+				height: 0px;
+				padding: 0;
+
 				position: absolute;
 				z-index: 9999;
 				top: 49px;
-				background: rgba(255, 255, 255, 1);
-				padding: 10px 0;
+				background: rgba(255, 255, 255, 0.95);
 				width: 100%;
 				box-shadow:
 					inset 0 1px 0 0 lighten(@global-color-grey-light, 10%),
@@ -792,15 +806,27 @@ header[role="banner"] {
 					display: block;
 					a {
 						display: block;
-						padding: 5px 10px 5px 35px;
+						line-height: 20px;
+						padding: 5px 10px 5px 40px;
 						i {
 							display: none;
 						}
 					}
+					a.active {
+						color: #000;
+						font-weight: 700;
+						display: default;
+						background: lighten(@global-color-grey-light, 15%);
+					}
 					ul {
-						margin: 0 0 0 30px;
+						margin: 5px 0;
+
 						li {
-							a {}
+							a {
+								border-left: solid lighten(@global-color-grey-light, 10%) 1px;
+								margin: 0 0 0 50px;
+								padding: 5px 10px 5px 20px;
+							}
 						}
 					}
 				}
@@ -832,18 +858,23 @@ header[role="banner"] {
                     a:hover {
                         border-bottom: solid darken(@global-color-primary, 10%) 3px;
                     }
-
+					a.active {
+						border-bottom: solid darken(@global-color-primary, 10%) 3px;
+						color: #000;
+						cursor: default;
+					}
                     ul {
                         opacity: 0;
                         visibility: hidden;
                         position: absolute;
-                        top: 47px;
+                        top: 49px;
                         left: 0;
                         width: 280px;
                         background: #fff;
                         box-shadow:
                             0 1px 0 1px rgba(0, 0, 0, .05),
-                            0 2px 3px 0 rgba(0, 0, 0, .1)
+							0 2px 3px 0 rgba(0, 0, 0, .1),
+							0 3px 2px 2px rgba(0, 0, 0, .1)
                         ;
 						z-index: 1000;
 
@@ -851,14 +882,17 @@ header[role="banner"] {
                             display: block;
                             a {
                                 line-height: 20px;
-                                padding: 10px 10px 10px 20px;
-                                border-bottom: none;
-                                border-left: solid transparent 3px;
+                                padding: 10px 10px 10px 15px;
+                                border-bottom: solid transparent 1px;
                             }
                             a:hover {
-                                border-bottom: none;
-                                border-left: solid @global-color-primary 3px;
+                                border-bottom: solid @global-color-primary 1px;
                             }
+							a.active {
+								border-bottom: solid @global-color-primary 1px;
+								color: #000;
+								cursor: default;
+							}
                         }
                     }
                 }

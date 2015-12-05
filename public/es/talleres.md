@@ -1,6 +1,6 @@
 Los talleres se dirigen a todo público, de niños a adultos, estudiantes de "A la clé" o no.
 
-<table>
+<table class="two-column-table">
     <thead>
         <tr>
             <th>A la Carta</th>
