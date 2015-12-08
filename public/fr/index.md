@@ -4,7 +4,7 @@ A la clé favorise un aprentissage ludique et créatif qui s'inscrit dans la mé
 
 Notre espace est spécialement conçu pour offrir un enseignement adapté à tous les âges et les besoins. Voilà pourquoi nous vous proposons un vaste éventail d'activités que nous divisons selon 4 pilers éducatifs et culturels :
 
-- **Cours de français** : Individuels ou en groupes réduits pour enfants et adultes.
-- **Ateliers variés** : Activités manuelles, peinture, danse, pour enfants et familles et cuisine, théâtre et chorale pour tous publics.
-- **Espace loisirs** : Ludothèque avec jeux, Cds, DVDs, organisation de fêtes d'anniversaire...)
-- **Espace culturel** : Projection de films, événements en rapport avec la francophonie, échanges linguistiques, conférences, expositions, café­croissant et bien d'autres choses encore!!!
+- **[Cours de français](fr/cours-de-francais-au-sein-du-centre.html)** : Individuels ou en groupes réduits pour enfants et adultes.
+- **[Ateliers variés](fr/ateliers.html)** : Activités manuelles, peinture, danse, pour enfants et familles et cuisine, théâtre et chorale pour tous publics.
+- **[Espace loisirs](fr/espace-de-loisirs.html)** : Ludothèque avec jeux, Cds, DVDs, organisation de fêtes d'anniversaire...)
+- **[Espace culturel](fr/espace-culturel.html)** : Projection de films, événements en rapport avec la francophonie, échanges linguistiques, conférences, expositions, café­croissant et bien d'autres choses encore!!!

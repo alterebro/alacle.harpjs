@@ -1088,6 +1088,18 @@ footer[role="contentinfo"] {
 
 	#footer-credits {
 		padding: 0 0 0 10px;
+		p.address {
+			a {
+				color: #fff;
+			}
+			@media @mobile {
+				.copyright { display: none; }
+				span {
+					display: block;
+					br { display: none; }
+				}
+			}
+		}
 		p.author {
 			font-family: @font-sans;
 			text-transform: uppercase;
