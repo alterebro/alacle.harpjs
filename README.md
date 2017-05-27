@@ -1,6 +1,6 @@
 ## alacle.harpjs
 
-### Live project : http://alacle.es/
+### Live project : http://alterebro.github.io/alacle.harpjs/
 
 Here resides the source code of the **alacle** website. *( http://alterebro.github.io/alacle.harpjs/ )*
 Built using  the static website generator and server **Harp** ( http://harpjs.com ).
