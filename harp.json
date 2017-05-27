@@ -5,7 +5,7 @@
         "site_description" : "Academia de francés A la clé Zaragoza. Espacio educativo y cultural con talleres, actividades y clases de Francés como lengua extranjera.",
         "site_keywords" : "espacio, educativo, academia, cursos, talleres, frances, clases, FLE, a la cle, zaragoza",
         "dev_url": "http://localhost:9000/",
-        "live_url" : "http://alterebro.github.io/alacle.harpjs/"
+        "live_url" : "https://alterebro.github.io/alacle.harpjs/"
     }
 
 }
