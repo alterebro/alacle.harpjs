@@ -1,17 +1,50 @@
 {
 
     "index": {
-        "title": "A la clé. Français Langue Etrangère",
+        "title": "À la clé: Aula de Formación de Francés",
         "sibling" : ""
     },
-    "quienes-somos": {
-        "title": "¿Quienes Somos?",
+	"acerca-de-mi" : {
+		"title": "Acerca de mí",
         "sibling" : "qui-nous-sommes"
-    },
-    "que-ofrecemos": {
-        "title": "¿Qué ofrecemos?",
+	},
+    "servicios": {
+        "title": "Servicios",
         "sibling" : "quoffrons-nous"
     },
+
+		"formacion-frances-empresas" : {
+			"title" : "Formación de francés a empresas",
+			"sibling" : "cours-de-francais-en-institutions"
+		},
+		"clases-frances" : {
+			"title" : "Clases individuales o en grupos reducidos",
+			"sibling" : "cours-de-francais-au-sein-du-centre"
+		},
+		"preparacion-examenes" : {
+			"title" : "Preparación a exámenes",
+			"sibling" : ""
+		},
+		"ensenanza" : {
+			"title" : "Enseñanza con Objetivos Específicos",
+			"sibling" : ""
+		},
+		"cursos-intensivos" : {
+			"title" : "Cursos intensivos",
+			"sibling" : ""
+		},
+		"conversacion" : {
+			"title" : "Conversación",
+			"sibling" : ""
+		},
+
+	"tarifas-y-condiciones": {
+        "title": "Tarifas y Condiciones",
+        "sibling" : "tarifs"
+    },
+
+
+
         "clases-de-frances-en-el-centro": {
             "title": "Clases de Francés en el Centro",
             "sibling" : "cours-de-francais-au-sein-du-centre"

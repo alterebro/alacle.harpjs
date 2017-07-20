@@ -1,10 +1,17 @@
-Somos un espacio educativo y cultural de francés que nació de nuestro deseo de compartir nuestra pasión por transmitir la cultura y lengua francófona.
+**À la clé es un aula de formación de francés, dirigida tanto a empresas como a adultos y jóvenes.**
 
-A la clé promueve un aprendizaje de forma lúdica y creativa. Se inscribe en la metodología accional de enseñanza-aprendizaje. Es decir que propone una enseñanza del Francés como Lengua Extranjera mediante una gran variedad de actividades para que el alumno se vuelva actor de su propio aprendizaje, creando sus propios mecanismos de estudio.
+Nació en 2015 como un Espacio Educativo y Cultural colaborativo, motivado por nuestra pasión por transmitir la cultura y lengua francófona.
+Continúo actualmente de forma autónoma con este proyecto, fomentando un aprendizaje lúdico y creativo, basado en una metodología accional de enseñanza-aprendizaje.
 
-À la clé está creado para proponer una oferta educativa adaptada a todas las edades y necesidades. Por esa razón proponemos un amplio abanico de actividades que dividimos en 4 pilares educativos y culturales :
+Partiendo de una base conversacional, el estudiante observa y analiza los mecanismos del idioma (*sintaxis, léxico, gramática...*). De esta forma, el alumno aprende hablando y adquiere automatismos lingüísticos auténticos. Aunque parto del habla para la enseñanza de los contenidos, en clase abarcamos las 4 competencias específicas del estudio de un idioma (*comprensión oral y escrita y expresión oral y escrita*).
 
-- **[Clases de francés](es/clases-de-frances-en-el-centro.html)** : Particulares y en grupos reducidos desde niños a adultos.
-- **[Talleres variados](es/talleres.html)** : Manualidades, pintura, danza, cocina, danza para niños y familias y de teatro y coro para todas las edades.
-- **[Espacio de ocio](es/espacio-ocio.html)** : Ludoteca con juegos, libros, cds, dvds, organización de cumpleaños...
-- **[Espacio cultural](es/espacio-cultural.html)** : Proyecciones de películas, eventos de la francofonía, intercambios, charlas, exposiciones, Café-croissant...
+Propongo una oferta educativa adaptada a todas las necesidades de este público, enseñando desde niveles principiantes hasta avanzados:
+
+- **[Formación de francés a empresas](es/formacion-frances-empresas.html)**
+- **[Clases individuales o en grupos reducidos](es/clases-frances.html)**
+- **[Preparación a exámenes](es/preparacion-examenes.html)**
+- **[Enseñanza con Objetivos Específicos](es/ensenanza.html)**
+- **[Cursos intensivos](es/cursos-intensivos.html)**
+- **[Conversación](es/conversacion.html)**
+
+Dispongo también de una ludoteca con juegos, libros, cds, dvds..., dirigida a una enseñanza lúdica e integral.
