@@ -1,8 +1,8 @@
 ## alacle.harpjs
 
-### Live project : https://alterebro.github.io/alacle.harpjs/
+### Live project : http://alacle.net
 
-Here resides the source code of the **alacle** website. *( https://alterebro.github.io/alacle.harpjs/ )*
+Here resides the source code of the **alacle** website. *( **http://alacle.net** - https://alterebro.github.io/alacle.harpjs/ )*
 Built using  the static website generator and server **Harp** ( http://harpjs.com ).
 
 - Install Harp Web Server globally.

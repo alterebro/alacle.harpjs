@@ -4,27 +4,41 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-    <url><loc>http://alacle.es/</loc></url>
-    <url><loc>http://alacle.es/es/</loc></url>
-    <url><loc>http://alacle.es/es/quienes-somos.html</loc></url>
-    <url><loc>http://alacle.es/es/que-ofrecemos.html</loc></url>
-    <url><loc>http://alacle.es/es/clases-de-frances-en-el-centro.html</loc></url>
-    <url><loc>http://alacle.es/es/clases-de-frances-en-instituciones.html</loc></url>
-    <url><loc>http://alacle.es/es/talleres.html</loc></url>
-    <url><loc>http://alacle.es/es/espacio-ocio.html</loc></url>
-    <url><loc>http://alacle.es/es/espacio-cultural.html</loc></url>
-    <url><loc>http://alacle.es/es/tarifas.html</loc></url>
-    <url><loc>http://alacle.es/es/agenda-y-eventos.html</loc></url>
-    <url><loc>http://alacle.es/es/contacto.html</loc></url>
-    <url><loc>http://alacle.es/fr/</loc></url>
-    <url><loc>http://alacle.es/fr/qui-nous-sommes.html</loc></url>
-    <url><loc>http://alacle.es/fr/quoffrons-nous.html</loc></url>
-    <url><loc>http://alacle.es/fr/cours-de-francais-au-sein-du-centre.html</loc></url>
-    <url><loc>http://alacle.es/fr/cours-de-francais-en-institutions.html</loc></url>
-    <url><loc>http://alacle.es/fr/ateliers.html</loc></url>
-    <url><loc>http://alacle.es/fr/espace-de-loisirs.html</loc></url>
-    <url><loc>http://alacle.es/fr/espace-culturel.html</loc></url>
-    <url><loc>http://alacle.es/fr/tarifs.html</loc></url>
-    <url><loc>http://alacle.es/fr/agenda-et-evenements.html</loc></url>
-    <url><loc>http://alacle.es/fr/contact.html</loc></url>
+    <url><loc>http://alacle.net/</loc></url>
+    <url><loc>http://alacle.net/es/</loc></url>
+
+	<url><loc>http://alacle.net/es/index.html</loc></url>
+	<url><loc>http://alacle.net/es/acerca-de-mi.html</loc></url>
+	<url><loc>http://alacle.net/es/servicios.html</loc></url>
+	<url><loc>http://alacle.net/es/formacion-frances-empresas.html</loc></url>
+	<url><loc>http://alacle.net/es/clases-frances.html</loc></url>
+	<url><loc>http://alacle.net/es/preparacion-examenes.html</loc></url>
+	<url><loc>http://alacle.net/es/ensenanza.html</loc></url>
+	<url><loc>http://alacle.net/es/cursos-intensivos.html</loc></url>
+	<url><loc>http://alacle.net/es/conversacion.html</loc></url>
+	<url><loc>http://alacle.net/es/tarifas-y-condiciones.html</loc></url>
+
+    <url><loc>http://alacle.net/es/quienes-somos.html</loc></url>
+    <url><loc>http://alacle.net/es/que-ofrecemos.html</loc></url>
+    <url><loc>http://alacle.net/es/clases-de-frances-en-el-centro.html</loc></url>
+    <url><loc>http://alacle.net/es/clases-de-frances-en-instituciones.html</loc></url>
+    <url><loc>http://alacle.net/es/talleres.html</loc></url>
+    <url><loc>http://alacle.net/es/espacio-ocio.html</loc></url>
+    <url><loc>http://alacle.net/es/espacio-cultural.html</loc></url>
+    <url><loc>http://alacle.net/es/tarifas.html</loc></url>
+    <url><loc>http://alacle.net/es/agenda-y-eventos.html</loc></url>
+    <url><loc>http://alacle.net/es/contacto.html</loc></url>
+
+	<url><loc>http://alacle.net/fr/</loc></url>
+	<url><loc>http://alacle.net/fr/index.html</loc></url>
+    <url><loc>http://alacle.net/fr/qui-nous-sommes.html</loc></url>
+    <url><loc>http://alacle.net/fr/quoffrons-nous.html</loc></url>
+    <url><loc>http://alacle.net/fr/cours-de-francais-au-sein-du-centre.html</loc></url>
+    <url><loc>http://alacle.net/fr/cours-de-francais-en-institutions.html</loc></url>
+    <url><loc>http://alacle.net/fr/ateliers.html</loc></url>
+    <url><loc>http://alacle.net/fr/espace-de-loisirs.html</loc></url>
+    <url><loc>http://alacle.net/fr/espace-culturel.html</loc></url>
+    <url><loc>http://alacle.net/fr/tarifs.html</loc></url>
+    <url><loc>http://alacle.net/fr/agenda-et-evenements.html</loc></url>
+    <url><loc>http://alacle.net/fr/contact.html</loc></url>
 </urlset>
