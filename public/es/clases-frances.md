@@ -18,7 +18,7 @@ Propongo dos tipos de clases, **individuales o en grupos reducidos** <sup>([1](e
 - Los grupos son de hasta 5 estudiantes, para favorecer un aprendizaje dinámico y personalizado a la vez que ameno y lúdico.
 - Recomiendo sesiones de hora y media, pero también se puede optar por clases de una o dos horas.
 
-Las clases están especialmente diseñadas en función de la edad y del objetivo del alumno. Pueden ser clases tanto de **[preparación a exámenes oficiales](es/preparacion-examenes.html)** (DELF/DALF, Escuela de Idiomas…), enfocadas a las necesidades **[laborales para particulares](es/ensenanza.html)** o **[empresas](es/formacion-frances-empresas.html)**, como **[conversacionales](es/conversacion.html)**. También imparto clases para alumnos que **[preparan su movilidad](es/ensenanza.html)** a un país francófono, ayudándoles a afrontar las situaciones cotidianas. Además, doy clases de **Formación de formadores**, para profesores de francés interesados perfeccionar sus mecanismos de enseñanza del Francés como Lengua Extranjera (FLE).
+Las clases están especialmente diseñadas en función de la edad y del objetivo del alumno. Pueden ser clases tanto de **[preparación de exámenes oficiales](es/preparacion-examenes.html)** (DELF/DALF, Escuela de Idiomas…), enfocadas a las necesidades **[laborales para particulares](es/ensenanza.html)** o **[empresas](es/formacion-frances-empresas.html)**, como **[conversacionales](es/conversacion.html)**. También imparto clases para alumnos que **[preparan su movilidad](es/ensenanza.html)** a un país francófono, ayudándoles a afrontar las situaciones cotidianas. Además, doy clases de **Formación de formadores**, para profesores de francés interesados en perfeccionar sus mecanismos de enseñanza del Francés como Lengua Extranjera (FLE).
 
 ---
 
@@ -45,7 +45,7 @@ Las clases están especialmente diseñadas en función de la edad y del objetivo
             </td>
             <td>
                 <ul>
-                    <li>No aprovechas de los puntos fuertes y de los fallos de los demás</li>
+					<li>No aprovechas los puntos fuertes y los fallos de los demás</li>
                     <li>Clases con menos interacción oral</li>
                     <li>Clases más intensas y densas</li>
                 </ul>
@@ -71,7 +71,7 @@ Para las clases en grupo realizo previamente una prueba de nivel gratuita para f
         <tr>
             <td>
                 <ul>
-                    <li>Clases adaptadas tus necesidades</li>
+                    <li>Clases adaptadas a tus necesidades</li>
                     <li>Consolidas tus bases</li>
                     <li>Recibes mucha atención del profesor</li>
                     <li>Clases más dinámicas y amenas</li>

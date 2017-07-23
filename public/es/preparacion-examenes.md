@@ -1,4 +1,4 @@
-Las clases de preparación a exámenes pueden ser [individuales o grupales](es/clases-frances.html), con el [bono](es/clases-frances.html) de tu elección.
+Las clases de preparación a exámenes pueden ser [individuales o en grupo](es/clases-frances.html), con el [bono](es/clases-frances.html) de tu elección.
 
 Gracias tanto a mi formación en Francés como a mi [experiencia](es/acerca-de-mi.html) como profesora, estoy al tanto de los criterios de evaluación para las pruebas oficiales de la Escuela de Idioma o del DELF/DALF desde el nivel principiante hasta avanzado (A1-C2).
 
@@ -17,7 +17,7 @@ Las semanas anteriores al examen doy la posibilidad de realizar un [curso intens
 
 #### <a name="criterios-evaluacion"></a> Explicitar de los criterios de evaluación.
 
-Los exámenes oficiales, tanto de la Escuela de Idiomas, de los Institutos o Alianzas franceses como de las Universidades están reglamentados por los Criterios de Evaluación establecido por el Marco Europeo Común de Referencia para la Lengua (MCERL)
+Los exámenes oficiales, tanto de la Escuela de Idiomas, de los Institutos o Alianzas franceses como de las Universidades están reglamentados por los Criterios de Evaluación establecidos por el Marco Europeo Común de Referencia para la Lengua (MCERL)
 El MCERL describe las distintas competencias de uso de la lengua divididas en cuatro categorías clasificadas en seis niveles, del A1 al C2 :
 
 <a name="competencias-MCERL"></a>
@@ -46,4 +46,4 @@ Esta metodología les podrá resultar útil también para su vida educacional, a
 Antes de presentarse al examen, me parece fundamental que el estudiante haya ensayado con pruebas de años anteriores para tener una muestra de lo que tendrá que realizar.
 
 Por eso dispongo de pruebas sacadas de los anales de los exámenes de la Escuela de Idiomas así como de Institutos y Alianzas franceses.
-También proporciono una gran variedad de documentos creados específicamente para el ejercicios de las 4 competencias, para adquirir progresivamente las capacidades requeridas.
+También proporciono una gran variedad de documentos creados específicamente para el ejercicio de las 4 competencias, para adquirir progresivamente las capacidades requeridas.
